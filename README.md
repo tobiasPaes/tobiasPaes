@@ -28,7 +28,6 @@
   <a href = "tobiassantospb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/tobias-paes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  
   <!-- <img src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif" />-->
  
   ![Snake animation](https://github.com/tobiasPaes/tobiasPaes/blob/output/github-contribution-grid-snake.svg)
