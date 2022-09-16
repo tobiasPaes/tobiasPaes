@@ -1,4 +1,19 @@
-## Bem-vindo 
+```javascript
+const WhoAmI = {
+  user: "Tobias Santos Paes Barreto",
+  university_graduation: "Analise e Desenvolvimento de Sistemas",
+  hobbies: [
+    "Studying",
+    "Playing Games",
+    "Watching Movies"]
+}  
+	 
+function getCurrentCity() {
+  return Natal_RN_Brazil;
+}
+ ```
+
+## 
 <div align="center">
   <a href="https://github.com/tobiasPaes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tobiasPaes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
