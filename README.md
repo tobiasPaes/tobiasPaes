@@ -1,8 +1,14 @@
-<h1>Sejam bem-vindos ao meu Github 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-``` javascript
-const WhoAmI = {
+
+
+
+```python
+def HelloEverybody(){
+  let hello = "hello, welcome to my github"
+  print(hello)
+} 
+
+WhoAmI = {
   user: "Tobias Santos Paes Barreto",
   university_graduation: "Analise e Desenvolvimento de Sistemas",
   hobbies: [
@@ -11,7 +17,7 @@ const WhoAmI = {
     "Watching Movies"]
 }  
 	 
-function getCurrentCity() {
+def getCurrentCity() {
   return Natal_RN_Brazil;
 }
  ```
@@ -23,7 +29,8 @@ function getCurrentCity() {
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasPaes&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-<div style="display: inline_block"><br>
+
+<div aling: "center" style="display: inline_block"><br>
   <img align="center" alt="Tobias-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tobias-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Tobias-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
@@ -34,10 +41,8 @@ function getCurrentCity() {
   <img align="center" alt="Tobias-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="Tobias-postegres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Tobias-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  
- 
 </div>
-  
+
   
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
