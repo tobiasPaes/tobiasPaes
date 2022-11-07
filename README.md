@@ -1,7 +1,3 @@
-
-
-
-
 ```python
 def HelloEverybody(){
   let hello = "hello, welcome to my github"
