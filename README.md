@@ -50,7 +50,7 @@ def getCurrentCity() {
   
   <!-- <img src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif" />-->
  
-  ![Snake animation](https://github.com/tobiasPaes/tobiasPaes/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Snake Light](https://github.com/tobiasPaes/tobiasPaes/blob/output/github-contribution-grid-snake.svg)
 	
  
 </div>
