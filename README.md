@@ -10,7 +10,12 @@ WhoAmI = {
   hobbies: [
     "Studying",
     "Playing Games",
-    "Watching Movies"]
+    "Watching Movies"
+  ]
+  StudyingNow: [
+    "React Native",
+    "Java"
+  ]
 }  
 	 
 def getCurrentCity() {
