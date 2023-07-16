@@ -14,7 +14,8 @@ WhoAmI = {
   ]
   StudyingNow: [
     "React Native",
-    "Java"
+    "Java",
+    "Vue"
   ]
 }  
 	 
