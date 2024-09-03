@@ -13,8 +13,8 @@ WhoAmI = {
     "Watching Movies"
   ]
   StudyingNow: [
-    "React Native",
-    "Java",
+    "Flutter",
+    "JS",
     "Vue"
   ]
 }  
